@@ -1,0 +1,11 @@
+Social Impact Factor (SIF)
+
+Objective
+
+1. Define Social Impact Factor (SIF) of products, service, people
+2. Calculate SIF by collecting information from web including social network services.
+3. Provide SIF via web interface
+
+I haven't figured out how to define who and what to look for to start to with.
+
+For now, searching web via Google AJAX API is provided.
